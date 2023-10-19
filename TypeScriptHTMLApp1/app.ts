@@ -82,6 +82,4 @@ window.onload = () => {
     wrapper.setTagToEnd(div1);
     wrapper.setTagToEnd(div1);
     document.write(wrapper.getHtml());
-
-
 };
